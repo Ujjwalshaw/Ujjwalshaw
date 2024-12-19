@@ -20,8 +20,9 @@
 
 <h2><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="34">&nbsp;About Me</h2>
 
-- 🔭 I’m currently a senior at IIT Mandi, pursuing my B.Tech in Data Science.<br>
-- 🌱 I’m currently learning Node.js, React, NLP, and DSA<br>
+- I'm currently working as a software engineer at Samsung Electronics. <br>
+- 🔭 completed Bachelors from IIT Mandi in Data Science and Engineering.<br>
+- 🌱 proficient in Node.js, React, NLP, and DSA<br>
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/ujjwal-shaw/">Ujjwal Shaw (Linkedin)</a><br>
 - 📨 How to reach me: <a href="ujjwalshaw2002@gmail.com">Ujjwal Shaw (Email)</a><br>
 <br>
